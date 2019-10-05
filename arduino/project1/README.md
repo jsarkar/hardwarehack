@@ -22,4 +22,5 @@
   * Connect 1 leg of push buttom switch with Ground(-)
   * Connect abother leg of the switch with 5V via 1K Ohms resister
   * Connect same push button switch leg with PIN 7 of digital side
-  * ![Project1](project1.jpg)
+  
+   ![Project1](project1.jpg)
